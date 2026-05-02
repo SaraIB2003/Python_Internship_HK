@@ -1,0 +1,47 @@
+{
+    "admin": {
+        "id": "f1a2b3c4-d5e6-7890-abcd-ef1234567890",
+        "email": "admin@hkacademy.com",
+        "password_hash": "b03ddf3ca2e714a6548e7495e2a03f5e824eaac9837cd7f159c67b90fb4b7342",
+        "role": "Admin",
+        "joined_on": "2025-01-01 09:00",
+        "failed_attempts": 0,
+        "locked": false
+    },
+    "sara_khan": {
+        "id": "a2b3c4d5-e6f7-8901-bcde-f12345678901",
+        "email": "sara.khan@gmail.com",
+        "password_hash": "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08",
+        "role": "User",
+        "joined_on": "2025-01-05 11:30",
+        "failed_attempts": 0,
+        "locked": false
+    },
+    "bilal99": {
+        "id": "b3c4d5e6-f7a8-9012-cdef-234567890123",
+        "email": "bilal99@outlook.com",
+        "password_hash": "ef2d127de37b942baad06145e54b0c619a1f22327b2ebbcfbec78f5564afe39d",
+        "role": "User",
+        "joined_on": "2025-01-10 14:15",
+        "failed_attempts": 3,
+        "locked": true
+    },
+    "testuser": {
+        "id": "eaf355d5-ed5a-4d9d-84ad-d83e94c5e9a8",
+        "email": "testuser@gmail.com",
+        "password_hash": "849f1575ccfbf3a4d6cf00e6c5641b7fd4da2ed3e212c2d79ba9161a5a432ff0",
+        "role": "User",
+        "joined_on": "2026-05-02 05:07",
+        "failed_attempts": 0,
+        "locked": false
+    },
+    "sara": {
+        "id": "1c565eef-869e-42ea-92d1-4bfe4c33faad",
+        "email": "sara@gmail.com",
+        "password_hash": "3a96dcfdadff284d6be603e565ac1fdd9cf72a224804d53e9b60a40c31f95e39",
+        "role": "User",
+        "joined_on": "2026-05-02 12:56",
+        "failed_attempts": 0,
+        "locked": false
+    }
+}
